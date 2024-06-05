@@ -1,8 +1,7 @@
 # Divulgação do Sistema de Pós Venda
   - Site criado com a intenção de vender e divulgar o produto de auxilio no pós venda.
   - Plataforma com base em CRM (Customer Relationship Management).
-  - **Para mais informações acesse o repo do projeto:** `https://github.com/ZeVictorAraujo/posvenda`
-
+  - **Para mais informações acesse o repo do projeto:** [`https://github.com/ZeVictorAraujo/posvenda`](https://github.com/ZeVictorAraujo/posvenda)
 # Tecnologias utilizadas
  <div class="inline">
             
